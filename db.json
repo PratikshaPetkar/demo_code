@@ -1,0 +1,122 @@
+{
+  "Register": [
+    {
+      "username": "ram",
+      "email": "ram@gl.com",
+      "password": "ram@12345",
+      "id": 4
+    }
+  ],
+  "favorites": [
+    {
+      "key": 629176,
+      "email": "ram@gmail.com",
+      "title": "Samaritan",
+      "image": "https://image.tmdb.org/t/p/w500/vwq5iboxYoaSpOmEQrhq9tHicq7.jpg",
+      "rating": 7,
+      "voting": 839,
+      "id": 1
+    },
+    {
+      "key": 616037,
+      "email": "ram@gmail.com",
+      "title": "Thor: Love and Thunder",
+      "image": "https://image.tmdb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "rating": 6.8,
+      "voting": 2501,
+      "id": 2
+    }
+  ],
+  "BookedMovies": [
+    {
+      "email": "kirti@gmail.com",
+      "theaterName": "IP Cinemas",
+      "timing": "4:00PM",
+      "SeatNo": 23,
+      "movie": "Venom: Let There Be Carnage",
+      "isBooked": true,
+      "id": 1
+    },
+    {
+      "email": "kirti@gmail.com",
+      "theaterName": "IP Cinemas",
+      "timing": "4:00PM",
+      "SeatNo": 44,
+      "movie": "Venom: Let There Be Carnage",
+      "isBooked": true,
+      "id": 2
+    },
+    {
+      "email": "ram@gmail.com",
+      "theaterName": "IP Cinemas",
+      "timing": "4:00PM",
+      "SeatNo": 26,
+      "movie": "Venom: Let There Be Carnage",
+      "isBooked": true,
+      "id": 3
+    },
+    {
+      "email": "ram@gmail.com",
+      "theaterName": "PVR",
+      "timing": "7:00PM",
+      "SeatNo": 8,
+      "movie": "Samaritan",
+      "isBooked": true,
+      "id": 4
+    },
+    {
+      "email": "ram@gmail.com",
+      "theaterName": "PVR",
+      "timing": "7:00PM",
+      "SeatNo": 9,
+      "movie": "Samaritan",
+      "isBooked": true,
+      "id": 5
+    },
+    {
+      "email": "ram@gmail.com",
+      "theaterName": "PVR",
+      "timing": "7:00PM",
+      "SeatNo": 30,
+      "movie": "Samaritan",
+      "isBooked": true,
+      "id": 6
+    },
+    {
+      "email": "ram@gmail.com",
+      "theaterName": "PVR",
+      "timing": "7:00PM",
+      "SeatNo": 31,
+      "movie": "Samaritan",
+      "isBooked": true,
+      "id": 7
+    },
+    {
+      "email": "ram@gmail.com",
+      "theaterName": "PVR",
+      "timing": "7:00PM",
+      "SeatNo": 52,
+      "movie": "Samaritan",
+      "isBooked": true,
+      "id": 8
+    },
+    {
+      "email": "ram@gmail.com",
+      "theaterName": "PVR",
+      "timing": "7:00PM",
+      "SeatNo": 53,
+      "movie": "Samaritan",
+      "isBooked": true,
+      "id": 9
+    },
+    {
+      "email": "ram@gmail.com",
+      "theaterName": "Cinemax",
+      "timing": "9:30AM",
+      "SeatNo": 9,
+      "movie": "Thor: Love and Thunder",
+      "isBooked": true,
+      "id": 10
+    }
+  ]
+}
